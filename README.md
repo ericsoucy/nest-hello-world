@@ -63,3 +63,7 @@ $ npm run test:e2e
 # test coverage
 $ npm run test:cov
 ```
+
+```bash
+npx ts-node .\src\assembler.ts
+```
