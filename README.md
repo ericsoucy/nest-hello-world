@@ -66,4 +66,5 @@ $ npm run test:cov
 
 ```bash
 npx ts-node .\src\assembler.ts
+npm i --save hbs
 ```
